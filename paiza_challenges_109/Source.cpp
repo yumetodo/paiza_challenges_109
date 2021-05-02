@@ -7,7 +7,7 @@
 #include <limits>
 #include <string>
 #include <type_traits>
-#include "../3rd_party/string_split.hpp"
+#include "../3rd_party/include/string_split.hpp"
 namespace atithmetic_cvt {
 	using std::nullptr_t;
 	namespace detail {
